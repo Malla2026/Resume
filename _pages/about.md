@@ -19,8 +19,15 @@ redirect_from:
 
 - Teaching experience.
 
-A data-driven personal website
+Motivation
 ======
+I am currently working as an independent research consultant and a short-term consultant for the [World Bank](https://www.worldbank.org/ext/en/home). In the past, I have worked for almost three years as a senior research specialist and an adjunct faculty member at the [Asian Institute of Technology (AIT)](https://ait.ac.th/), Thailand, one of the most prestigious regional universities in Asia. I have also worked for more than four years as a consultant and a research associate for various development agencies, including the United Nations Environmental Program - [Regional Resource Center for Asia and the Pacific (UNEP\RRC-AP)](https://www.rrcap.ait.ac.th/Pages/About-us.aspx), [East-West Center](https://www.eastwestcenter.org/), and [Asian Development Bank (ADB)](https://www.adb.org/). As a consultant for ADB, I have coordinated national reports and conducted national workshops and regional seminars involving different governments, donors, academic institutions, the private sector, and non-government organizations (NGOs).
+
+My interdisciplinary research background and cross-disciplinary qualifications in engineering and economy, combined with my past working experience, make me a strong candidate for the available position outlined in your advertisement. As my CV shows, I have been conducting multi-disciplinary research in the areas of energy related to climate change mitigation. 
+
+I look forward to your response and an opportunity to discuss my experience and qualifications further. 
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
