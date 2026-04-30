@@ -2,7 +2,7 @@
 title: "Household Cooking in Nepal: An Economic Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-number-1
+permalink: "https://doi.org/10.1016/j.enpol.2026.115194"
 excerpt: 'This paper is about Economics of Cooking in Nepal.'
 date: 2026-March
 venue: 'Energy Policy Journal'
