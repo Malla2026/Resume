@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: "https://doi.org/10.1016/j.enpol.2026.115194"
 excerpt: 'This paper is about Economics of Cooking in Nepal.'
-date: 2026-March
+date: 2026-June
 venue: 'Energy Policy Journal'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
