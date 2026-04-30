@@ -7,7 +7,7 @@ excerpt: 'The residential sector is a major energy consumer in Nepal, with cooki
 date: 2026-June
 venue: 'Energy Policy Journal'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.enpol.2026.115194'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Malla et al. (2026). Household Cooking in Nepal: An Economic Analysis. Energy Policy 213, 115194. https://doi.org/10.1016/j.enpol.2026.115194'
 ---
