@@ -1,14 +1,14 @@
 ---
-title: "Price-Based Mechanisms for Climate Change Mitigation"
+title: "[Price-Based Mechanisms for Climate Change Mitigation](https://doi.org/10.5325/jdevepers.5.1-2.0048)"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Price-based mechanisms (PBMs) are important vehicles for reducing greenhouse gas (GHG) emissions by incorporating environmental costs into economic decision-making. Examples of PBMs include carbon taxes, emission trading systems (ETS), other taxes on fossil fuels, feed-in-tariffs (FiTs), and removal of fossil fuel subsidies. PBMs are gaining momentum worldwide and have been included in the packages of policy instruments considered by most of the Paris Agreement parties to achieve their nationally determined contributions (NDCs). Many countries, including developing countries, have already implemented multiple PBMs. In some countries, PBMs have been in place for the last three decades. Have the PBMs implemented in practice produced the expected results in mitigating GHG emissions? If not, why? This article attempts to answer the first question by reviewing empirical evidence presented in the literature. It also explains the second question by analyzing the political, financial, and technical barriers faced by the PBMs.'
+date: 2025-07-08
+venue: 'Journal of Development Perspectives'
+#slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+# paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+citation: 'Timilsina and Malla (2025). Price-Based Mechanisms for Climate Change Mitigation. Journal of Development Perspectives 5 (1-2): 48–80. https://doi.org/10.5325/jdevepers.5.1-2.0048.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the #paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
