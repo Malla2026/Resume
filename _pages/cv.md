@@ -23,13 +23,11 @@ Work experience
 
 * July 2020 - August 2020: NRFU Enumerator
   * US Census
-  #* Duties included: Merging pull requests
- 
+   
 * 2007-2012: Sr. Researcher
   * NextGen Solutions, Kathmandu, Nepal
   * Duties included: Modeling, assessing and analysing of sectoral-based energy uses in developing countries. Assessment and analysis of sectoral-based energy uses in Kathmandu Valley, Nepal. Selected specific research works include (i) identification and proposition of potential clean development mechanism projects; (ii) assessment of rural energy management; (iii) Renewable energy education awareness, both in urban and rural areas of Nepal.
-  #* Supervisor: Professor Git
-
+ 
 * 2004-2006: Senior Research Specialist and Adjunct Faculty
   * Asian Institute of Technology, Thailand.
   * Duties included: Teaching and working in the area of sustainable energy development and climate policy assessments. Selected specific research works include (i) Integrated assessment modeling for developing countries and analyses of mitigation options and sustainable development opportunities; (ii) sub-regional state of the environment assessment and reporting on UNEP’s global environmental output - 4 (GEO-4); and (iii) analyses of energy systems development and mitigation options of greenhouse gases and local air pollutant emissions in Asian countries.
