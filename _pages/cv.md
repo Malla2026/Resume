@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of Hawaii-Manoa, USA 2003
-* M.E. in Energy Planning and Policy, Asian Institute of Technology, Thailand 1993
+* Ph.D in Economics, University of Hawaii-Manoa, USA, 2003
+* M.E. in Energy Planning and Policy, Asian Institute of Technology, Thailand, 1993
 * B.E. in Electrical, National Institute of Technology-Rourkela, India, 1990
 
 Work experience
