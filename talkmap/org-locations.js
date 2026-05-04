@@ -15,6 +15,11 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "Economics of Electric Cooking in Nepal<br />IAEE 2025 Paris Conference Presented by Govinda R. Timilsina; Paris, France",
+    48.8588897,
+    2.320041
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
