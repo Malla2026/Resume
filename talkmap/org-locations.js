@@ -16,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Economics of Electric Cooking in Nepal<br />IAEE 2025 Paris Conference Presented by Govinda R. Timilsina; Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
@@ -28,5 +28,10 @@ var addressPoints = [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
+  ],
+  [
+    "Economic Analysis of Cleaner Industrial Boilers in Nepal: Fuel Choices, Efficiency, and Policy Implications<br />USAEE/IAEE 2025 Conference; Fort Worth, Texas, USA",
+    32.753177,
+    -97.3327459
   ]
 ];
