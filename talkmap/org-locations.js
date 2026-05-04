@@ -5,6 +5,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "Romania Low Carbon and Green Growth Study<br />Bucharest, Romania; Bucharest, Romania",
+    44.4361414,
+    26.102684
+  ],
+  [
     "Energy Demand in the Central African Republic: Preliminary results using the CEEDA Tool<br />Virtual Meeting; Virtual",
     44.4939936,
     11.3576917
@@ -16,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Economics of Electric Cooking in Nepal<br />IAEE 2025 Paris Conference Presented by Govinda R. Timilsina; Paris, France",
-    48.8588897,
-    2.320041
+    48.8534951,
+    2.3483915
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
