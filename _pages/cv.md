@@ -20,13 +20,11 @@ Work experience
 * 2012 to date: Independent and Short Term Consultant
   * World Bank, Washington, DC, USA
   * Duties includes: Developing and analyzing sustainable energy transition models and policies.  
-  #* Supervisor: The Users
 
 * July 2020 - August 2020: NRFU Enumerator
   * US Census
   #* Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
-
+ 
 * 2007-2012: Sr. Researcher
   * NextGen Solutions, Kathmandu, Nepal
   * Duties included: Modeling, assessing and analysing of sectoral-based energy uses in developing countries. Assessment and analysis of sectoral-based energy uses in Kathmandu Valley, Nepal. Selected specific research works include (i) identification and proposition of potential clean development mechanism projects; (ii) assessment of rural energy management; (iii) Renewable energy education awareness, both in urban and rural areas of Nepal.
