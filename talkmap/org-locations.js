@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "End-use Energy Demand Analysis<br />Bucharest, Romania; Bucharest, Romania",
+    44.4361414,
+    26.102684
+  ],
+  [
     "Romania Low Carbon and Green Growth Study<br />Bucharest, Romania; Bucharest, Romania",
     44.4361414,
     26.102684
