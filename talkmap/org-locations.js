@@ -43,5 +43,10 @@ var addressPoints = [
     "Economic Analysis of Cleaner Industrial Boilers in Nepal: Fuel Choices, Efficiency, and Policy Implications<br />USAEE/IAEE 2025 Conference; Fort Worth, Texas, USA",
     32.753177,
     -97.3327459
+  ],
+  [
+    "Asia Pacific Scenarios Development Global Environmental Outlook<br />Regional Planning Meeting for GEO-4; Bangkok, Thailand",
+    13.7524938,
+    100.4935089
   ]
 ];
