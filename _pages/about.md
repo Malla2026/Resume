@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-- Results-oriented with proven success as an interdisciplinary research analyst and project consultant with over 25 years of experience at international and academic institutions.
-- Cross-disciplinary qualifications in engineering, energy, and economics.
-- Modeler and research specialist in energy, economy, and environment interactions.
-- Over 6 years of experience developing/managing projects in challenging, fast-paced consulting environments. 
-- Demonstrated ability to acquire technical knowledge and skills, and an innovative problem solver.
-- Teaching experience.
+- **Results-oriented** with proven success as an interdisciplinary research analyst and project consultant with over 25 years of experience at international and academic institutions.
+- **Cross-disciplinary qualifications** in engineering, energy, and economics.
+- **Modeler and research specialist** in energy, economy, and environment interactions.
+- **Over 6 years of experience** developing/managing projects in challenging, fast-paced consulting environments. 
+- **Demonstrated ability** to acquire technical knowledge and skills, and an innovative problem solver.
+- **Teaching** experience.
 
 Motivation
 ======
